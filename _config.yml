@@ -1,28 +1,39 @@
-name: My Turn Media Group
-favicon: null
-layout_spectrum: 0.5069996463134885
-typography_spectrum: 0.4171728666406125
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9066757564432919
-  lightness: 0.5508018294349313
-  saturation: 0.9574031354859471
-  rhythmicContrast: 0.6773757149931043
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9574031354859471
+  lightness: 0.5508018294349313
+  brandStrength: 0.8726813
+  brandColors:
+    - '#000000'
+    - '#1AE6FF'
+    - '#0A5C66'
+    - '#0F8A99'
+  rhythmicContrast: 0.6773757149931043
+typography_spectrum: 0.6871838
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5354131
+favicon: null
+name: My Turn Media Group
