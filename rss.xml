@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Turn Media Group]]></title>
+        <description><![CDATA[My Turn Media Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 18:35:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/873bef0c-6fda-47d7-921b-767cff7746df.jpg">]]></description>
+            <link>undefined3ccbff25-0a4e-4257-aa26-5f746db1ace8/index.html</link>
+            <guid isPermaLink="false">3ccbff25-0a4e-4257-aa26-5f746db1ace8</guid>
+            <pubDate>Wed, 13 Jan 2016 18:34:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
