@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: My Turn Media Group
+favicon: null
+layout_spectrum: 0.5354131
+typography_spectrum: 0.6871838
 collections:
   - index:
       path: /
@@ -18,22 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: SEO and PPC Marketing Company
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9574031354859471
-  lightness: 0.5508018294349313
-  brandStrength: 0.8726813
   brandColors:
     - '#000000'
     - '#1AE6FF'
     - '#0A5C66'
     - '#0F8A99'
+  brandStrength: 0.8726813
+  lightness: 0.5508018294349313
+  saturation: 0.9574031354859471
   rhythmicContrast: 0.6773757149931043
-typography_spectrum: 0.6871838
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5354131
-favicon: null
-name: My Turn Media Group
+purpose: []
