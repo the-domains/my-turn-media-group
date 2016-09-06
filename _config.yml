@@ -1,41 +1,41 @@
-name: My Turn Media Group
-favicon: null
-layout_spectrum: 0.5354131
-typography_spectrum: 0.6871838
+title: SEO and PPC Marketing Company
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: SEO and PPC Marketing Company
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.9375
+  brandStrength: 0.8726813
+  rhythmicContrast: 0.6773757149931043
   brandColors:
     - '#ffffff'
     - '#2dfffe'
     - '#000000'
     - '#6f6f6f'
     - '#2e2e2e'
-  brandStrength: 0.8726813
   lightness: 0.5508018294349313
-  saturation: 0.9375
-  rhythmicContrast: 0.6773757149931043
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: My Turn Media Group
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6871838
+layout_spectrum: 0.7829787
